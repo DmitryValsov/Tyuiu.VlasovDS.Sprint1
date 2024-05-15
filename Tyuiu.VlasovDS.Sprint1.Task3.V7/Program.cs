@@ -13,13 +13,13 @@ namespace Tyuiu.VlasovDS.Sprint1.Task3.V7
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #1 | Выполнил: Команич Р. М. | АСОиУб-23-3";
+            Console.Title = "Спринт #1 | Выполнил: Власов Д. С. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
-            Console.WriteLine("* Выполнил: Команич Роман Маркович | АСОиУб-23-3                          *");
+            Console.WriteLine("* Выполнил: Власов Дмитрий Сергеевич | АСОиУб-23-3                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая переводит версты в километры.               *");

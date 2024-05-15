@@ -13,13 +13,13 @@ namespace Tyuiu.VlasovDS.Sprint1.Task2.V12
         {
             DataService ds = new DataService();
             
-            Console.Title = "Спринт #1 | Выполнил: Команич Р. М. | АСОиУб-23-3";
+            Console.Title = "Спринт #1 | Выполнил: Власов Д. С. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #12                                                              *");
-            Console.WriteLine("* Выполнил: Команич Роман Маркович | АСОиУб-23-3                          *");
+            Console.WriteLine("* Выполнил: Власов Дмитрий Сергеевич | АСОиУб-23-3                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, находит объем параллелепипеда.                      *");
